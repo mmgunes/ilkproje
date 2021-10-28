@@ -16,8 +16,9 @@ function App2() {
         <hr></hr>
         <p>Style verirken önce içiçe iki tane süslü parantez sonra özellik : ve tek tırnak içinde değer verilir. Aralara **virgül** konur</p>
         <p>Ayrıca class isimleri html de class JSX te **className** olarak tanımlanır. Yani html ve javascript attribureleri farklı bazı noktalarda Console dan hata kısmından kontrol edebilirsin</p>
-        <p></p>
+        
         <hr></hr>
+        <p>Gitte görmek için eklendim</p>
             <hr></hr>
         <button className="jsxClass" tabIndex="2" type="button" style={{color: 'beige' , backgroundColor: 'purple' , padding: '10px' , border:'2px red solid'}} >JSX Stylli Butonu</button>
             <hr></hr>
